@@ -1,0 +1,9 @@
+# Local Claude Code config (machine-specific permissions, etc.)
+.claude/settings.local.json
+
+# Pegasus generated output
+output/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
